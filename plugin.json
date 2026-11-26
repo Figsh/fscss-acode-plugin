@@ -1,0 +1,19 @@
+{
+  "id": "dev.figsh.fscss",
+  "name": "FSCSS Support",
+  "main": "main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 290,
+  "price": 0,
+  "license": "MIT",
+  "keywords": ["fscss", "xfscss", "css", "preprocessor", "syntax", "figsh"],
+  "repository": "https://github.com/Figsh/fscss-acode-plugin",
+  "homepage": "https://fscss.devtem.org",
+  "author": {
+    "name": "Figsh",
+    "github": "Figsh"
+  }
+}
