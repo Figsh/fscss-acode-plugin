@@ -3,7 +3,7 @@
   "name": "FSCSS Support",
   "main": "main.js",
   "version": "1.0.0",
-  "readme": "readme.md",
+  "readme": "README.md",
   "icon": "icon.png",
   "files": [],
   "minVersionCode": 290,
