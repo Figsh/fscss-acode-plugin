@@ -4,6 +4,16 @@ Syntax highlighting and snippets for **FSCSS** (Figured Shorthand Cascading Styl
 
 ---
 
+## Installation
+
+1. Download `fscss-acode-plugin.zip` from the [Releases](https://github.com/Figsh/fscss-acode-plugin/releases) page.
+2. Open **Acode** and go to **Settings → Plugins** (or the **Extensions** tab).
+3. Tap **`+` → LOCAL**, select `fscss-acode-plugin.zip`, and wait for installation to finish.
+4. Open any `.fscss` or `.xfscss` file—highlighting activates automatically (or select **FSCSS** from the syntax mode selector).
+
+
+---
+
 ## Features
 
 ### Syntax Highlighting
